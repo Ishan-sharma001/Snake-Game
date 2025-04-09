@@ -27,7 +27,7 @@ A classic **Snake Game** recreated using **HTML**, **CSS**, and **JavaScript** a
 
 ![Snake Game Screenshot](./screenshots/game-preview.png)
 
-> *(Add your screenshot in a folder named `screenshots` and change the path above if needed)*
+
 
 ---
 
